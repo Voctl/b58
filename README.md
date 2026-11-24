@@ -1,3 +1,3 @@
-# b58 
- Simple bytecode interpreter in 58 line
+# b3
+ Simple bytecode interpreter in 3 lines
  
